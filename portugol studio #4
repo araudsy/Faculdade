@@ -1,0 +1,9 @@
+programa
+{
+	funcao inicio()
+	{
+		inteiro a=1, b=2, c
+		c= a+b
+		escreva(c)
+	}
+}
