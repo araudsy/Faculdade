@@ -8,3 +8,5 @@ programa
 		escreva("Diga o seu nome: ")
 		leia(nome) 
 		escreva("Olá, ", nome , ". bem vindo!")
+	}
+}
