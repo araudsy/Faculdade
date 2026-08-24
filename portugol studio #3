@@ -1,0 +1,15 @@
+programa
+{
+	
+funcao inicio()
+	{
+		inteiro idade = 18
+		real saldo = 300.85
+		caracter sexo = 'M'
+		cadeia nome = "João"
+		logico casado = falso
+		escreva(nome," tem ",idade," anos, se identifica com o sexo ")
+		escreva(sexo, " e tem ",saldo," na sua conta bancária. ")
+		escreva("\n ",nome," é casado: ", casado)
+	}
+}
